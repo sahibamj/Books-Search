@@ -1,0 +1,18 @@
+.book-card {
+}
+
+.book-image img {
+  height: 300px;
+  width: auto;
+  object-fit: cover;
+}
+
+.book-details-body {
+  max-height: 500px;
+  overflow: auto;
+}
+
+.book-description p {
+  max-height: 300px;
+  overflow: auto;
+}

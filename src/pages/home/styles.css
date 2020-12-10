@@ -1,0 +1,14 @@
+.book-card {
+  cursor: pointer;
+}
+
+.book-card-image {
+  height: 300px;
+  width: auto;
+  object-fit: cover;
+}
+
+.book-details-body {
+  max-height: 400px;
+  overflow: auto;
+}
